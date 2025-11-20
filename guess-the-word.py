@@ -23,5 +23,8 @@ word_bank = [
     'plane', 'boat', 'subway', 'bus', 'truck', 'scooter', 'skateboard', 
     'helicopter', 'yacht', 'zeppelin', 'spaceship', 'rocket', 'satellite', 
     'drone', 'hovercraft', 'tram', 'ferry', 'canoe', 'kayak', 'glider', 
-    'zeppelin', 'monorail', 'trolley'
+    'zeppelin', 'monorail', 'trolley', 'ocean', 'river', 'mountain', 'forest',
+    'desert', 'island', 'valley', 'canyon', 'waterfall', 'glacier', 'volcano',
+    'lagoon', 'reef', 'savanna', 'jungle', 'swamp', 'marsh', 'prairie', 'tundra'
 ]
+
