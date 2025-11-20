@@ -13,5 +13,15 @@ word_bank = [
     'koala', 'panda', 'crocodile', 'alligator', 'butterfly', 'dragonfly', 
     'ladybug', 'spider', 'ant', 'beetle', 'grasshopper', 'cricket', 'snail',
     'worm', 'coral', 'jellyfish', 'seahorse', 'starfish', 'clam', 'oyster', 
-    'lobster', 'crab',
+    'lobster', 'crab', 'shrimp', 'squid', 'octopus', 'peach', 'mango', 'banana',
+    'apple', 'grape', 'orange', 'kiwi', 'papaya', 'plum', 'cherry', 'berry', 
+    'melon', 'coconut', 'fig', 'date', 'nectarine', 'apricot', 'persimmon',
+    'quince', 'pomegranate', 'tangerine', 'clementine', 'lime', 'lemon',
+    'avocado', 'broccoli', 'carrot', 'spinach', 'kale', 'lettuce', 'cabbage',
+    'cauliflower', 'zucchini', 'cucumber', 'pepper', 'onion', 'garlic', 
+    'potato', 'tomato', 'eggplant', 'squash', 'pumpkin', 'car', 'bike', 'train',
+    'plane', 'boat', 'subway', 'bus', 'truck', 'scooter', 'skateboard', 
+    'helicopter', 'yacht', 'zeppelin', 'spaceship', 'rocket', 'satellite', 
+    'drone', 'hovercraft', 'tram', 'ferry', 'canoe', 'kayak', 'glider', 
+    'zeppelin', 'monorail', 'trolley'
 ]
