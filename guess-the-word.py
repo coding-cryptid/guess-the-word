@@ -45,3 +45,7 @@ while attempts > 0:
     else:
         attempts -= 1
         print('Wrong guess! Attempts left: ' + str(attempts))
+    
+    if '_' not in guessedWord:
+        print('\nCongradulations!! You guessed the word: ' + word)
+        break
