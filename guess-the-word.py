@@ -42,3 +42,6 @@ while attempts > 0:
             if word[i] == guess:
                 guessedWord[i] = guess
         print("Great guess!")
+    else:
+        attempts -= 1
+        print('Wrong guess! Attempts left: ' + str(attempts))
